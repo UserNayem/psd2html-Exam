@@ -1,0 +1,42 @@
+.row1{
+    width: 100%;
+ display:flex;
+}
+ .top-icon{
+     margin-right: 10px;
+ }
+}
+.top-manu ul{}
+.top-manu ul li{
+    display: inline-block;
+    margin-left: 5px;
+}
+.top-manu ul li a{
+color: rgb(43, 15, 15);
+text-decoration: none;
+
+}
+.carousel-caption h3,h5{
+    text-align: center;
+}
+.card-elements i{
+    border-radius: 100%;
+    background-color: rgb(66, 56, 56);
+    padding: 10px;
+    color: rgb(70, 197, 81);
+}
+.card-body2{
+    background-color: rgb(177, 161, 157);
+}
+.nostyle{
+    list-style-type: none;
+   
+    text-align: center;
+    font-weight: 500;
+    padding: 5px;
+    padding-top: 10px;
+   
+}
+.nostyle li:hover{
+    background-color: #13bdc9;
+}
